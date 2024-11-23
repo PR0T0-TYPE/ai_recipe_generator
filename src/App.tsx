@@ -16,7 +16,7 @@ const App = () => {
 
   // Together AI API setup
   const together = new Together({
-    apiKey: '4dd3ec54aef08aea07c498f8c1b47627f00e9b506fa66f6b31ca4f47cceda434'
+    apiKey: '1b3f0fe8b0f211ae223861062626d5c523a08c77b9203adee483e409bd3f4f67'
   });
 
   // Function to call Together AI
